@@ -2,8 +2,8 @@ body {
   font-family: 'Black Ops One', cursive;
 }
 
-p {
-  color: red;
+.deus {
+  color: #fa0032;
 }
 
 video {
@@ -23,7 +23,7 @@ html {
 }
 
 body {
-  width: 800px;
+  width: 1000px;
   margin: 0 auto;
   background-color: #ff9500;
   padding: 0 20px 20px 20px;
@@ -37,4 +37,38 @@ button {
 
 .container{
   display: flex;
+}
+
+.audio{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.txt{
+  text-align: center;
+
+}
+
+.titulo {
+  text-align: center;
+  color: #black;
+} 
+.tituloincio{
+  text-align: center;
+}  
+.pave{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.youtupeplayer{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.pesquisa{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
